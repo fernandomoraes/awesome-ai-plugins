@@ -305,6 +305,7 @@ Third-party plugins built by the community. [PRs welcome](#contributing)!
 - [OpenCode Power Pack](https://github.com/waybarrios/opencode-power-pack) - Fifty-four portable development and security workflows for Codex, Claude Code, OpenCode, and Pi, with opt-in native sandbox profiles for safer command execution.
 - [opencode-models-discovery](https://github.com/yuhp/opencode-models-discovery) - OpenCode plugin that dynamically discovers models from OpenAI-compatible providers and injects them into provider config with filtering and metadata enrichment.
 - [opencode-nexus](https://github.com/mohammad154/opencode-nexus) - OpenCode plugin with a fixed three-agent execution workflow, conditional planning advice, fresh impact analysis, deterministic verification, and durable run state.
+- [opencode-openai-compact](https://github.com/partment/opencode-openai-compact) - OpenCode plugin that uses OpenAI Responses API native compaction v2 and stores checkpoints in SQLite.
 - [opencode-plugin-loop](https://github.com/jkrandom-sudo/opencode-plugin-loop) - OpenCode plugin adding a /loop command that runs prompts on fixed, adaptive, or one-shot schedules per session.
 - [opencode-plugin-peers](https://github.com/jkrandom-sudo/opencode-plugin-peers) - OpenCode plugin for cross-session messaging: independent instances on the same machine discover each other and exchange plain-text messages.
 - [opencode-see-image](https://github.com/alfaoz/opencode-see-image) - OpenCode plugin that gives non-vision models image and screenshot understanding by routing attachments to a vision-capable model.
@@ -348,6 +349,7 @@ Third-party plugins built by the community. [PRs welcome](#contributing)!
 - [skill-sync-publisher](https://github.com/liuyewang/skill-sync-publisher) - Safely synchronize this Codex skill across public agent-skill registries.
 - [skillsaw](https://github.com/stbenjam/skillsaw) - A configurable linter for agent skills, plugins, and AI coding assistant context.
 - [Skillstore](https://github.com/aiskillstore/marketplace) - Security-audited Agent Skills marketplace with one-command installation for Claude Code and Codex via the skillstore CLI.
+- [smt-mcp-server-poc](https://github.com/ab-ten/smt-mcp-server-poc) - Read-only local workspace MCP server PoC for ChatGPT via OpenAI Secure MCP Tunnel, with path/mount containment and `.mcpignore` exposure controls.
 - [SOTA Engineering Skills](https://github.com/martinholovsky/SOTA-skills) - Router-mapped library of 40 domain and language skills with BUILD and AUDIT modes, loading only the rules a task needs and ending every rules file in an audit checklist.
 - [Spec-Driven Development](https://github.com/Habib0x0/spec-driven-plugin) - Three-phase Requirements → Design → Tasks workflow for Claude Code and Codex — EARS notation acceptance criteria, autonomous execution loop, cross-spec dependencies, and post-implementation acceptance testing.
 - [spec-superflow](https://github.com/MageByte-Zero/spec-superflow) - Spec-first workflow with nine skills, user-controlled Quick / Hotfix / Tweak / Full paths, auditable recovery commands, hardened delta-spec sync, and guarded review gates.
